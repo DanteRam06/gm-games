@@ -55,9 +55,9 @@ const JerseyNumber = ({
 				style={{
 					width: 55,
 					height: 50,
-					border: `2px solid ${colors[2]}`,
+					border: `2px solid ${colors[1]}`,
 					backgroundColor: colors[0],
-					color: colors[1],
+					color: colors[2],
 					fontSize: 32,
 					textAlign: "center",
 					lineHeight: 1.4,
